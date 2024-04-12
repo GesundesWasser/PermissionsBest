@@ -1,0 +1,5 @@
+name: PermissionsBest
+version: 1.2.4
+main: net.scamcraft.Plugin
+api-version: 1.17
+authors: []
